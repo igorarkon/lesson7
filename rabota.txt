@@ -1,4 +1,0 @@
-Ivanov 15000
-Cidorov 23000
-Petrov 18000
-Dorohov 13000
